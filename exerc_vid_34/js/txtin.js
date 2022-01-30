@@ -15,7 +15,7 @@ export let txtin = prompt("Ingresa una cadena de texto"),
 
     //console.log("Ingresa sólo cadena de texto");
     console.warn("Ingresa sólo cadena de texto");
-    alert("Ingresa sólo cadena de texto");
+    alert("Por favor recarga el navegador e ingresa sólo cadena de texto");
   }
 }
     txtLength();
