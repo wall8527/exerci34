@@ -14,7 +14,7 @@ export let txtin = prompt("Ingresa una cadena de texto"),
     }else if(validatein >= 0 || validatein <= 0){
 
     //console.log("Ingresa sólo cadena de texto");
-    console.warn("Ingresa sólo cadena de texto");
+    console.warn("Por favor recarga el navegador e ingresa sólo cadena de texto");
     alert("Por favor recarga el navegador e ingresa sólo cadena de texto");
   }
 }
